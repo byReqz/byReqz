@@ -46,6 +46,7 @@
 
 ## Web Stuff
 #### those are just the "maintained" web repos, you can find the ancient ones in the repos tab
+<!--
 <a href="https://github.com/byReqz/caddy-browse-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=caddy-browse-template&show_icons=true&theme=radical&show_owner=true" />
 </a>
@@ -58,8 +59,9 @@
 <a href="https://github.com/byReqz/dunes-revived">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=dunes-revived&show_icons=true&theme=radical&show_owner=true" />
 </a>
+-->
 
-
+⬇️⬇️⬇️
 <!--
 **byReqz/byReqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

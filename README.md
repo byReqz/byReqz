@@ -1,8 +1,8 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/byReqz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=byreqz&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/byReqz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byreqz&count_private=true&show_icons=true&theme=radical&layout=compact&langs_count=10" />
 </a>
 

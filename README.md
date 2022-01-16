@@ -13,7 +13,24 @@
 - 😄 Pronouns: any, he/him
 - ⚡ Fun fact: yes
 
-## Shell Stuff
+## Projects
+### WIP
+<a href="https://github.com/byReqz/go-etcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=go-etcher&show_icons=true&theme=radical&show_owner=true" />
+</a>
+
+### mostly feature-complete
+<a href="https://github.com/byReqz/probehost2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=probehost2&show_icons=true&theme=radical&show_owner=true" />
+</a>
+
+### maintained for bugs
+<a href="https://github.com/byReqz/gotty-docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=gotty-docker&show_icons=true&theme=radical&show_owner=true" />
+</a>
+<a href="https://github.com/byReqz/ssh-chat-docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=ssh-chat-docker&show_icons=true&theme=radical&show_owner=true" />
+</a>
 <a href="https://github.com/byReqz/conn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=conn&show_icons=true&theme=radical&show_owner=true" />
 </a>
@@ -26,42 +43,9 @@
 <a href="https://github.com/byReqz/status">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=status&show_icons=true&theme=radical&show_owner=true" />
 </a>
-<a href="https://github.com/byReqz/blackmate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=blackmate&show_icons=true&theme=radical&show_owner=true" />
-</a>
 
-
-## Docker Stuff
-<a href="https://github.com/byReqz/gotty-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=gotty-docker&show_icons=true&theme=radical&show_owner=true" />
-</a>
-<a href="https://github.com/byReqz/ssh-chat-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=ssh-chat-docker&show_icons=true&theme=radical&show_owner=true" />
-</a>
-<a href="https://github.com/byReqz/netdiscover-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=netdiscover-docker&show_icons=true&theme=radical&show_owner=true" />
-</a>
-
-#### You can also find my registry at <a href="https://reg.nils.lol">https://reg.nils.lol</a>
-
-## Web Stuff
-#### those are just the "maintained" web repos, you can find the ancient ones in the repos tab
-<!--
-<a href="https://github.com/byReqz/caddy-browse-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=caddy-browse-template&show_icons=true&theme=radical&show_owner=true" />
-</a>
-<a href="https://github.com/byReqz/nils.lol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=nils.lol&show_icons=true&theme=radical&show_owner=true" />
-</a>
-<a href="https://github.com/byReqz/byreqz.de">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=byreqz.de&show_icons=true&theme=radical&show_owner=true" />
-</a>
-<a href="https://github.com/byReqz/dunes-revived">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=dunes-revived&show_icons=true&theme=radical&show_owner=true" />
-</a>
--->
-
-⬇️⬇️⬇️
+### the others
+All of my other repos should be seen as abandoned or atleast not actively updated. Many of them just dont require further updates though.
 <!--
 **byReqz/byReqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,3 +60,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

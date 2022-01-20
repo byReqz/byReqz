@@ -18,6 +18,11 @@
 <a href="https://github.com/byReqz/go-etcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=go-etcher&show_icons=true&theme=radical&show_owner=true" />
 </a>
+<a href="https://github.com/byReqz/pt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=pt&show_icons=true&theme=radical&show_owner=true" />
+</a>
+
+
 
 ### mostly feature-complete
 <a href="https://github.com/byReqz/probehost2">

@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=probehost2&show_icons=true&theme=radical&show_owner=true" />
 </a>
 
-### maintained for bugs
+### maintained
 <a href="https://github.com/byReqz/gotty-docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=byreqz&repo=gotty-docker&show_icons=true&theme=radical&show_owner=true" />
 </a>
